@@ -37,7 +37,7 @@ theme_config:
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
-highlighter: monokai # rouge
+highlighter: rouge
 
 sass:
   style: :compressed
