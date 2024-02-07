@@ -1,7 +1,7 @@
 title: Richard Guilherme - Portfólio de Data Science
 author: Richard Guilherme
 url: https://zheage.github.io/richardguilherme.github.io/ # root address of the site
-logo: images\revolt.jpg
+logo: "images\revolt.jpg"
 description:  # description of the site (multiple lines allowed)
   Dale
 
@@ -39,7 +39,7 @@ theme_config:
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
-highlighter: syntax-base16.monokai.dark # rouge
+highlighter: monokai # rouge
 
 sass:
   style: :compressed
