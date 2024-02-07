@@ -1,8 +1,8 @@
 title: Richard Guilherme - Portfólio de Data Science
 author: Richard Guilherme
 url: https://zheage.github.io/richardguilherme.github.io/ # root address of the site
-description:  # description of the site (multiple lines allowed)
-Atualmente é consultor de estatística na empresa StepWise
+description: > # description of the site (multiple lines allowed)
+  Atualmente é consultor de estatística na empresa StepWise
 
 permalink: /:slug
 
