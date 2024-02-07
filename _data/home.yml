@@ -1,0 +1,60 @@
+navbar_entries:
+  - title: Sobre
+    url: sobre
+
+  - title: Linkedin
+    url: https://www.linkedin.com/in/richard-guilherme-da/
+
+project_entries:
+  - title: Application Model
+    url: application-model
+    desc: Modelo de entrada
+
+  - title: Inference of Denied
+    url: problemas-de-modelos-clássicos-em-dados-desbalancedos
+    desc: Inferência de negados
+
+# old_project_entries:
+
+  # - title: Humangous
+  #   url: https://www.humangous.co
+  #   desc: The better people know you, the better they collaborate
+
+footer_entries:
+  - title: Linkedin
+    url: https://www.linkedin.com/in/richard-guilherme-da/
+
+  - title: Github
+    url: https://github.com/zheage
+
+misc_entries:
+  - title: this is an example vertical list
+    url: false
+
+  # - title: you can show or hide using a boolean flag in _config.yml
+  #   url: false
+
+  # - title: and you can add data in _data/home.yml
+  #   url: false
+
+  # - title: Blog posts
+  #   post_list: true
+  #   url: false
+
+  # - title: moonwalk on the Internet
+  #   url: false
+  #   entries:
+  #     - title: on Github
+  #       url: https://github.com/abhinavs/moonwalk
+
+  #     - title: originally built for abhinav's homepage
+  #       url: https://www.abhinav.co
+
+  #     - title: this list is scalable and can be nested
+  #       url: false
+  #       entries:
+  #         - title: this is nested inside a nested list
+  #           url: false
+
+  #         - title: it is easy to use, see _data/home.yml to see how to configure it.
+  #           url: false
