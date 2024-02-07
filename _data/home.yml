@@ -6,34 +6,18 @@ navbar_entries:
     url: https://www.linkedin.com/in/richard-guilherme-da/
 
 project_entries:
-  - title: Projeto Behavior
-    url: overview-post
+  - title: Application Model
+    url: application-model
     desc: This is an example project, configured in _data/home.yml
     highlight: Novo
 
-  - title: Project 2
+  - title: Inference of Denied
     url: overview-post
     desc: Projects are shown in card layout
 
   - title: Project 3
     url: overview-post
     desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-
-  - title: Project Extensao
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
@@ -59,9 +43,6 @@ footer_entries:
 
   - title: Github
     url: https://github.com/zheage
-
-  - title: feed
-    url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
