@@ -11,7 +11,7 @@ project_entries:
     desc: Modelo de entrada
 
   - title: Inference of Denied
-    url: application-model
+    url: problemas-de-modelos-clássicos-em-dados-desbalancedos
     desc: Inferência de negados
 
 # old_project_entries:
