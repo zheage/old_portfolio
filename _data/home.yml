@@ -1,15 +1,12 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: Sobre
+    url: sobre
 
-  - title: blog
-    url: blog
-
-  - title: website
-    url: https://www.abhinav.co
+  - title: Linkedin
+    url: https://www.linkedin.com/in/richard-guilherme-da/
 
 project_entries:
-  - title: Project 1
+  - title: Projeto Behavior
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
 
@@ -32,6 +29,10 @@ project_entries:
     highlight: WIP
 
   - title: Project 6
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
+
+  - title: Project Extensao
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
