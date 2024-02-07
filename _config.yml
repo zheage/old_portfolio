@@ -4,7 +4,7 @@ url: https://zheage.github.io/richardguilherme.github.io/ # root address of the 
 logo: "images\revolt.jpg"
 description:  # description of the site (multiple lines allowed)
   Dale 
-  ()[images\revolt.jpg]
+  !()[images\revolt.jpg]
 
 permalink: /:slug
 
