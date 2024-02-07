@@ -7,4 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacini
 
 # Sample heading 1
 
-![](images\revolt.jpg)
+<figure>
+  <img src="images\revolt.jpg" alt="Texto Alternativo">
+  <figcaption>Legenda da Imagem ....</figcaption>
+</figure>
