@@ -11,11 +11,11 @@ project_entries:
     desc: Modelo de entrada
 
   - title: Inference of Denied
-    url: overview-post
+    url: application-model
     desc: Inferência de negados
 
   - title: Project 3
-    url: overview-post
+    url: portfolio-post
     desc: Projeto aleatório
 
 # old_project_entries:
