@@ -9,7 +9,6 @@ project_entries:
   - title: Application Model
     url: application-model
     desc: This is an example project, configured in _data/home.yml
-    highlight: Novo
 
   - title: Inference of Denied
     url: overview-post
