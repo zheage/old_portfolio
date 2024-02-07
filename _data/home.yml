@@ -14,10 +14,6 @@ project_entries:
     url: application-model
     desc: Inferência de negados
 
-  - title: Project 3
-    url: portfolio-post
-    desc: Projeto aleatório
-
 # old_project_entries:
 
   # - title: Humangous
