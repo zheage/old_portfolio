@@ -9,6 +9,7 @@ project_entries:
   - title: Projeto Behavior
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
+      highlight: Novo
 
   - title: Project 2
     url: overview-post
@@ -21,12 +22,10 @@ project_entries:
   - title: Project 4
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
 
   - title: Project 5
     url: overview-post
     desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
 
   - title: Project 6
     url: overview-post
@@ -40,7 +39,7 @@ old_project_entries:
   - title: Soopr
     url: https://www.soopr.co
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+    highlight: Novo
 
   - title: Cookie
     url: https://github.com/abhinavs/cookie
@@ -55,14 +54,11 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: Linkedin
+    url: https://www.linkedin.com/in/richard-guilherme-da/
 
-  - title: twitter
-    url: https://twitter.com/abhinav
-
-  - title: github
-    url: https://github.com/abhinavs
+  - title: Github
+    url: https://github.com/zheage
 
   - title: feed
     url: feed.xml
@@ -100,3 +96,15 @@ misc_entries:
             url: false
 
 
+@mixin dark-appearance {
+  html, body  {
+      --headings: #74c0fc;
+      --links: #91a7ff;
+      --highlight: #41c7c7;
+      --bg: #1f242a;
+      --bg-secondary: #323945;
+      --text: #adb5bd;
+      --text-secondary: #9ca3af;
+      --code-text: #91a7ff;
+  };
+}

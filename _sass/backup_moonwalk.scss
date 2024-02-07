@@ -79,15 +79,15 @@ img {
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   html, body  {
-      --headings: #910A67;
-      --links: #720455;
-      --highlight: #d4269d;
-      --bg: #000330;
-      --bg-secondary: #232438;
-      --text: #bdadb8;
-      --text-secondary: #bdadb8;
-      --code-text: #bdadb8;
-      --share-text: #bdadb8;
+      --headings: #74c0fc;
+      --links: #91A7FF;
+      --highlight: #41C7C7;
+      --bg: #1f242A;
+      --bg-secondary: #323945;
+      --text: #adb5bd;
+      --text-secondary: #9CA3AF;
+      --code-text: #91A7FF;
+      --share-text: #C4C4C4;
   };
 }
 
