@@ -1,10 +1,17 @@
 title: Richard Guilherme - Portfólio de Data Science
 author: Richard Guilherme
 url: https://zheage.github.io/richardguilherme.github.io/ # root address of the site
-logo: "images\revolt.jpg"
 description:  # description of the site (multiple lines allowed)
-  Dale 
-  !()[images\revolt.jpg]
+
+Atualmente é consultor de estatística na empresa StepWise, realizando análise e modelagem
+de dados para auxiliar na tomada de decisão. Realiza pesquisa como aluno do programa de
+mestrado PIPGEs da USP e UFSCar de São Carlos na área de aprendizado de máquina,
+focando em métodos de predição de eventos raros, buscando soluções em problemas
+comuns que acontecem na elaboração de modelos no mercado financeiro.
+Possui conhecimentos em Python, R, SQL e Excel, assim como em suas principais bibliotecas
+de análise e visualização de dados como pandas, numpy, matplotlib, seaborn, sklearn e
+tidyverse.
+
 
 permalink: /:slug
 
