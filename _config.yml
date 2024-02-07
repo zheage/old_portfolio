@@ -1,7 +1,7 @@
 title: Richard Guilherme - Portfólio de Data Science
 author: Richard Guilherme
 url: https://zheage.github.io/richardguilherme.github.io/ # root address of the site
-description: > # description of the site (multiple lines allowed)
+description:  # description of the site (multiple lines allowed)
   Dale
 
 permalink: /:slug
