@@ -80,13 +80,13 @@ img {
 @mixin dark-appearance {
   html, body  {
       --headings: #BF365A;
-      --links: #8C2385;
-      --highlight: #8C2385;
+      --links: #e44cda;
+      --highlight: #e44cda;
       --bg: #2A2040;
       --bg-secondary: #302559;
       --text: #ffffff;
-      --text-secondary: #ffffff;
-      --code-text: #ffffff;
+      --text-secondary: #BF365A;
+      --code-text: #BF365A;
   };
 }
 
