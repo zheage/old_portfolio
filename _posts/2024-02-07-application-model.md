@@ -27,7 +27,10 @@ bst.fit(X_train, y_train)
 # make predictions
 preds = bst.predict(X_test)
 
-Class()
+def Class():
+  __init__()
+
+  self.x = x
 
 def funcao(a,b):
   return c
