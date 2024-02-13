@@ -10,6 +10,10 @@ project_entries:
     url: application-model
     desc: Modelo de entrada
 
+  - title: teste jupyter
+    url: teste
+    desc: Modelo de entrada
+
 # old_project_entries:
 
   # - title: Humangous
