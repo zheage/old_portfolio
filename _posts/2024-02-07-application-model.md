@@ -13,7 +13,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacini
 </figure>
 
 ```python
-
 from xgboost import XGBClassifier
 # read data
 from sklearn.datasets import load_iris
@@ -34,5 +33,4 @@ def Class():
 
 def funcao(a,b):
   return c
-
 ```
