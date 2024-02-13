@@ -1,12 +1,5 @@
 ## moonwalk - a fast and minimalistic blog theme with clean dark mode
 
-<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/moonwalk.png" />
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/logo.png" width="24"/>
-<a href="https://abhinavs.github.io/moonwalk/">TRY THE DEMO</a>
-</h3>
-
 ## Features
 * Light & dark mode with theme switcher
 * Vertical list, horizontal list, card list
@@ -20,18 +13,6 @@
 * Auto-generated share images for social media (using [Soopr](https://www.soopr.co))
 * Share & like buttons (using [Soopr](https://www.soopr.co))
 
-
-#### Lighthouse
-
-<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/lighthouse-report.png" />
-
-## Quick Installation
-1. [Fork this repository](https://github.com/abhinavs/moonwalk/fork).
-2. `cd moonwalk`
-3. `bin/bootstrap`
-4. [Optional] Sign up on Soopr, and add your `publish_token` in `_config.yml` file.
-
-If you are installing Moonwalk on Windows, please note that you might have to use Ruby 3.0.x instead of Ruby 3.1.x - you can see Windows specific installation instructions [here](https://github.com/abhinavs/moonwalk/blob/master/moonwalk_on_windows.md)
 
 ## Starting Server
 `bin/start` - development server will start at http://127.0.0.1:4000
