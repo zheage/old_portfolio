@@ -13,7 +13,16 @@ description: > # description of the site (multiple lines allowed)
 
   <br> </br>
   
-  <img src="images\revolt.jpg">
+  <figure>
+    <img src="images\revolt.jpg">
+    <figcaption> 
+    O estilo vaporwave é uma estética visual e musical que surgiu na internet no início dos 
+    anos 2010. Inspirado na cultura dos anos 80 e 90, vaporwave incorpora elementos como imagens
+    retro-futuristas, cores pastel, efeitos de distorção e samples de música popular dessa época,
+    geralmente transformados em algo mais surreal e nostálgico. É uma expressão artística 
+    que busca evocar uma sensação de nostalgia, ironia e crítica à cultura de consumo contemporânea.
+    </figcaption>
+  </figure>
 
 permalink: /:slug
 
