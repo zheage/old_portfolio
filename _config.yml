@@ -1,4 +1,4 @@
-title: Richard Guilherme - Portfólio de Data Science
+title: Portfólio de Data Science
 author: Richard Guilherme
 url: https://zheage.github.io/portfolio/ # root address of the site
 description: > # description of the site (multiple lines allowed)
@@ -16,13 +16,15 @@ description: > # description of the site (multiple lines allowed)
   <figure>
     <img src="images\revolt.jpg">
     <figcaption> 
-    O estilo vaporwave é uma estética visual e musical que surgiu na internet no início dos 
-    anos 2010. Inspirado na cultura dos anos 80 e 90, vaporwave incorpora elementos como imagens
-    retro-futuristas, cores pastel, efeitos de distorção e samples de música popular dessa época,
-    geralmente transformados em algo mais surreal e nostálgico. É uma expressão artística 
-    que busca evocar uma sensação de nostalgia, ironia e crítica à cultura de consumo contemporânea.
+    Vaporwave é uma estética visual inspirado na cultura dos anos 80 e 90, incorporando elementos como imagens
+    retro-futuristas, cores pastel, efeitos de distorção e samples de música popular dessa época.
+    Vários dos projetos terão como base essa temática, buscando dar um toque pessoal para o portfólio :)
     </figcaption>
   </figure>
+
+  
+
+
 
 permalink: /:slug
 

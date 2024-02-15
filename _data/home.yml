@@ -5,6 +5,9 @@ navbar_entries:
   - title: Linkedin
     url: https://www.linkedin.com/in/richard-guilherme-da/
 
+  - title: Github
+  url: https://github.com/zheage
+
 project_entries:
   - title: Application Model
     url: application-model
@@ -20,8 +23,9 @@ footer_entries:
   - title: Linkedin
     url: https://www.linkedin.com/in/richard-guilherme-da/
 
-  - title: Github
-    url: https://github.com/zheage
+  - title: Currículo
+  url: https://drive.google.com/file/d/1D9zb6gJ9Pa1jjeO4DpJlGwPdb0zpqrJw/view?usp=sharing
+
 
 misc_entries:
   - title: this is an example vertical list
