@@ -6,7 +6,7 @@ navbar_entries:
     url: https://www.linkedin.com/in/richard-guilherme-da/
 
   - title: Github
-  url: https://github.com/zheage
+    url: https://github.com/zheage
 
 project_entries:
   - title: Application Model
