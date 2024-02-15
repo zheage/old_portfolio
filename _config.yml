@@ -8,7 +8,7 @@ description: > # description of the site (multiple lines allowed)
   Este é o meu portfólio de Ciência de Dados. Aqui você encontra desde projetos completos
   até a posts específicos detalhando certos temas na área.
 
-  # Sobre mim
+  <h1> Sobre mim </h1>
 
   Richard atualmente é consultor de estatística na empresa StepWise, realizando análise e modelagem
   de dados para auxiliar na tomada de decisão. Realiza pesquisa como aluno do programa de
@@ -56,7 +56,7 @@ theme_config:
   show_tags: false # show tags in a blog posts
   # options for "home" page 
   home:
-    title_projects: Portfólio
+    title_projects: Projetos
     title_misc_list: Details
     title_blog: Artigos
     title_old_projects: Projetos Antigos
