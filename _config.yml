@@ -2,7 +2,15 @@ title: Portfólio de Data Science
 author: Richard Guilherme
 url: https://zheage.github.io/portfolio/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Atualmente é consultor de estatística na empresa StepWise, realizando análise e modelagem
+  
+  Bem vindo (a)!
+
+  Este é o meu portfólio de Ciência de Dados. Aqui você encontra desde projetos completos
+  até a posts específicos detalhando certos temas na área.
+
+  # Sobre mim
+
+  Richard atualmente é consultor de estatística na empresa StepWise, realizando análise e modelagem
   de dados para auxiliar na tomada de decisão. Realiza pesquisa como aluno do programa de
   mestrado PIPGEs da USP e UFSCar de São Carlos na área de aprendizado de máquina,
   focando em métodos de predição de eventos raros, buscando soluções em problemas
@@ -11,7 +19,7 @@ description: > # description of the site (multiple lines allowed)
   de análise e visualização de dados como pandas, numpy, matplotlib, seaborn, sklearn e
   tidyverse. 
 
-  <br> </br>
+    <br> </br>
   
   <figure>
     <img src="images\revolt.jpg">
@@ -21,9 +29,6 @@ description: > # description of the site (multiple lines allowed)
     Vários dos projetos terão como base essa temática, buscando dar um toque pessoal para o portfólio :)
     </figcaption>
   </figure>
-
-  
-
 
 
 permalink: /:slug
