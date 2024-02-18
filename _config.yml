@@ -1,6 +1,7 @@
 title: Portfólio de Data Science
 author: Richard Guilherme
 url: https://zheage.github.io/portfolio/ # root address of the site
+input: Kramdown
 description: > # description of the site (multiple lines allowed)
   
   Bem vindo (a)!
