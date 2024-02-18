@@ -27,13 +27,17 @@ footer_entries:
 
 misc_entries:
 
-  
+  - title: Introdução a dados desbalanceados
+    url: https://zheage.github.io/portfolio/
 
-  - title: Regressão Logística - this is an example vertical list
-    url: https://drive.google.com/file/d/1D9zb6gJ9Pa1jjeO4DpJlGwPdb0zpqrJw/view?usp=sharing
+  - title: Random Undersampling & Oversampling
+    url: https://zheage.github.io/portfolio/
 
-  - title: 2.0 this is an example vertical list
-    url: https://drive.google.com/file/d/1D9zb6gJ9Pa1jjeO4DpJlGwPdb0zpqrJw/view?usp=sharing
+  - title: SMOTE
+    url: https://zheage.github.io/portfolio/
+
+  - title: EasyEnsemble
+    url: https://zheage.github.io/portfolio/
   
-  - title: 3.0 teste
+  - title: Simulações
     url: https://zheage.github.io/portfolio/
