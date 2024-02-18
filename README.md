@@ -1,19 +1,5 @@
 ## moonwalk - a fast and minimalistic blog theme with clean dark mode
 
-## Features
-* Light & dark mode with theme switcher
-* Vertical list, horizontal list, card list
-* Landing page with navbar, footer, portfolio
-* Fast (very minimal CSS) - 100/100 on performance, accessibility, best practices and SEO, please see [Lighthouse Report](https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/lighthouse-report.png) for more details
-* Responsive and mobile friendly
-* SEO optimized (uses [Jekyll Soopr SEO Tag](https://github.com/jekyll/jekyll-soopr-seo-tag))
-* RSS feed (uses [Jekyll Feed](https://github.com/jekyll/jekyll-feed))
-* Easy to extend
-* Fully compatible with [GitHub Pages](https://pages.github.com/) (see [GitHub Pages installation](#github-pages-installation))
-* Auto-generated share images for social media (using [Soopr](https://www.soopr.co))
-* Share & like buttons (using [Soopr](https://www.soopr.co))
-
-
 ## Starting Server
 `bin/start` - development server will start at http://127.0.0.1:4000
 
