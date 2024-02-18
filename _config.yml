@@ -58,7 +58,7 @@ theme_config:
   # options for "home" page 
   home:
     title_projects: Projetos
-    title_misc_list: Detalhes
+    title_misc_list: Artigos
     title_blog: Artigos
     title_old_projects: Projetos Antigos
 
