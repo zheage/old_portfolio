@@ -8,7 +8,7 @@ navbar_entries:
 project_entries:
 
   - title: Application Model
-    url: https://heage.medium.com/teste-94143243d10a # application-model
+    url: <a href="https://heage.medium.com/teste-94143243d10a" target="_blank"></a>  # application-model
     desc: Modelo de entrada
 
 # old_project_entries:
