@@ -26,5 +26,12 @@ footer_entries:
 
 
 misc_entries:
+
   - title: this is an example vertical list
     url: https://drive.google.com/file/d/1D9zb6gJ9Pa1jjeO4DpJlGwPdb0zpqrJw/view?usp=sharing
+
+  - title: 2.0 this is an example vertical list
+    url: https://drive.google.com/file/d/1D9zb6gJ9Pa1jjeO4DpJlGwPdb0zpqrJw/view?usp=sharing
+  
+  - title: 3.0 teste
+    url: https://zheage.github.io/portfolio/
