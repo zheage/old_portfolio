@@ -13,9 +13,9 @@ project_entries:
 
 # old_project_entries:
 
-  # - title: Humangous
-  #   url: https://www.humangous.co
-  #   desc: The better people know you, the better they collaborate
+#   title: Humangous
+#    url: https://www.humangous.co
+#     desc: The better people know you, the better they collaborate
 
 footer_entries:
   - title: Linkedin
@@ -27,4 +27,4 @@ footer_entries:
 
 misc_entries:
   - title: this is an example vertical list
-    url: false
+    url: https://drive.google.com/file/d/1D9zb6gJ9Pa1jjeO4DpJlGwPdb0zpqrJw/view?usp=sharing

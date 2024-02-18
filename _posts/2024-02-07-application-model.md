@@ -8,15 +8,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacini
 # Sample heading 1
 
 <figure>
-  <img src="images\revolt.jpg" alt="Texto Alternativo">
-  <figcaption>Legenda da Imagem ....</figcaption>
+  <img src="application-model\revolt.jpg" alt="Texto Alternativo">
+  <center><figcaption>Legenda da Imagem ....</figcaption></center>
 </figure>
 
-
-
-
-<figure>
-  <img src="images\vaporwave.jpg" alt="Texto 4ternativo">
-  <figcaption>Legenda da Imagem ....</figcaption>
-</figure>
 
