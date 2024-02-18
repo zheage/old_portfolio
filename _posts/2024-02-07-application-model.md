@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacini
 # Sample heading 1
 
 <figure>
-  <img src="images/revolt.jpg" alt="Texto Alternativo">
+  <img src="images/application-score/revolt.jpg" alt="Texto Alternativo">
   <center><figcaption>Legenda da Imagem ....</figcaption></center>
 </figure>
 
