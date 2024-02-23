@@ -27,17 +27,5 @@ footer_entries:
 
 misc_entries:
 
-  - title: Introdução a dados desbalanceados
-    url: https://zheage.github.io/portfolio/
-
-  - title: Random Undersampling & Oversampling
-    url: https://zheage.github.io/portfolio/
-
-  - title: SMOTE
-    url: https://zheage.github.io/portfolio/
-
-  - title: EasyEnsemble
-    url: https://zheage.github.io/portfolio/
-  
-  - title: Simulações
-    url: https://zheage.github.io/portfolio/
+  - title: [Risco de Crédito] Entendendo os conceitos de EverXMobY
+    url: risco-de-credito
