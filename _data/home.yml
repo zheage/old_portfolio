@@ -28,4 +28,4 @@ footer_entries:
 misc_entries:
 
   - title: (Risco de Crédito) Entendendo os conceitos de EverXMobY
-    url: [go](https://www.youtube.com/watch?v=RdkW3plOX6o&ab_channel=Afreehug){:target="_blank" rel="noopener"}
+    url: (https://www.youtube.com/watch?v=RdkW3plOX6o&ab_channel=Afreehug){:target="_blank" rel="noopener"}
