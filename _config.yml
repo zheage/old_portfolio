@@ -1,75 +1,39 @@
-title: Portfólio de Data Science
-author: Richard Guilherme
-url: https://zheage.github.io/portfolio/ # root address of the site
-input: Kramdown
-description: > # description of the site (multiple lines allowed)
-  
-  Bem vindo (a)!
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
+# If you change this file, please restart the server process.
 
-  Este é o meu portfólio de Ciência de Dados. Aqui você encontra desde projetos completos
-  até a posts específicos detalhando certos temas na área.
+# Site settings
+# are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-  <h1> Sobre mim </h1>
+theme: jekyll-agency
 
-  Richard atualmente é consultor de estatística na empresa StepWise, realizando análise e modelagem
-  de dados para auxiliar na tomada de decisão. Realiza pesquisa como aluno do programa de
-  mestrado PIPGEs da USP e UFSCar de São Carlos na área de aprendizado de máquina,
-  focando em métodos de predição de eventos raros, buscando soluções em problemas
-  comuns que acontecem na elaboração de modelos no mercado financeiro.
-  Possui conhecimentos em Python, R, SQL e Excel, assim como em suas principais bibliotecas
-  de análise e visualização de dados como pandas, numpy, matplotlib, seaborn, sklearn e
-  tidyverse. 
+url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
-    <br> </br>
-  
-  <figure>
-    <img src="images\revolt.jpg">
-    <figcaption> 
-    Vaporwave é uma estética visual inspirado na cultura dos anos 80 e 90, incorporando elementos como imagens
-    retro-futuristas, cores pastel, efeitos de distorção e samples de música popular dessa época.
-    Vários dos projetos terão como base essa temática, buscando dar um toque pessoal para o portfólio :)
-    </figcaption>
-  </figure>
+title      : Your Awesome Website
+email      : your-email@example.com #this is also the email contact forms will go to
+description: "Site description"
+author     : Your Name
+# logo:     #optional, defaults to site title
+  # path: assets\img\clients\creative-market.jpg
+  # height: 60 #height in px, defaults to 52px
 
+locale: "en-US" # See available languages in _data/sitetext.yml
 
-permalink: /:slug
+analytics:
+  google: #Google Analytics tracking code here
 
-favicon: "./logo.png" # relative path to site's favicon
+collections:
+  portfolio:
 
-#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
-remote_theme: abhinavs/moonwalk
+markdown: kramdown
 
-theme_config:
-  appearance: "dark" # can be "light", "dark" or "auto"
-  appearance_toggle: true # if appearance can be switched by user
-  back_home_text: "home.." # customize text for homepage link in post layout
-  date_format: "%d-%m-%Y" # customize how date is formatted
-  show_description: true # show blog description
-  show_navbar: true # show horizontal navbar
-  show_footer: true # show footer links in home page,add in _data/home.yml
-  show_copyright: true # show copyright notice in footer
-  # following keys are using to create home layout
-  show_projects: true # show projects as cards, add in _data/home.yml
-  show_blog: false # show blog posts added in _posts
-  show_old_projects: false # show old projects as cards, add in _data/home.yml
-  show_misc_list: true # show generic vertical list for misc details, add _data/home.yml
-  show_reading_time: true # show number of words and reading time in the blog posts
-  show_tags: false # show tags in a blog posts
-  # options for "home" page 
-  home:
-    title_projects: Projetos
-    title_misc_list: Artigos
-    title_blog: Artigos
-    title_old_projects: Projetos Antigos
-
-soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
-
-highlighter: rouge
-
-sass:
-  style: :compressed
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# Uncomment following line to use Formspree form ID based URL instead of email based URL
+# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
+# formspree_form_path: "f/a_form_id"
